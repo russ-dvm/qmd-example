@@ -28,7 +28,7 @@ editor: visual
 test
 
 ::: {#fig-flower layout-nrow="2"}
-![](images/Petasites_hybridus_inflorescence_-_Keila.jpg)
+![](Petasites_hybridus_inflorescence_-_Keila.jpg)
 
-![](images/Petasites_hybridus_leaf.JPG)
+![](Petasites_hybridus_leaf.JPG)
 :::
